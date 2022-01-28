@@ -2,7 +2,7 @@
 
 int main() {
 int result;
-float pathu;
+float pathu; // just referance name
     puts("addition:");
     result = 100 +50;
     printf("100 + 50=%i\n", result);
