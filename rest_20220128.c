@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 int main() {
-    float pathu;
+    float pathu;// just referance name
     puts("mul:");
     pathu = 43.333 * 1;
     printf("%g\n", pathu);
